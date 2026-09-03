@@ -6,7 +6,7 @@ Análisis estadístico de los datos de inmunogenicidad del ensayo clínico aleat
 
 ## 📋 Descripción
 
-El notebook implementa un pipeline completo de análisis estadístico sobre los títulos de anticuerpos **OPA (Opsonophagocytic Activity)** para 9 serotipos neumocócicos, en dos poblaciones: niños y adultos.
+El notebook implementa un pipeline completo de análisis estadístico sobre los títulos de anticuerpos **OPA (Actividad Opsonofagocítica)** para 9 serotipos neumocócicos, en dos poblaciones: niños y adultos.
 
 El objetivo es **predecir la eficacia de Quimi-Vio® 11 en adultos** mediante un análisis de **inmunopuente** (*immunobridging*): si la respuesta inmune en adultos es no inferior a la de niños —población en la que ya se demostró eficacia clínica—, se puede inferir que la vacuna también será eficaz en adultos. La respuesta de anticuerpos OPA actúa como **correlato de protección**.
 
