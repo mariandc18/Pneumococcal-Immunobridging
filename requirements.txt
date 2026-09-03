@@ -1,1 +1,7 @@
-
+camelot-py[cv]
+pandas
+numpy
+scipy
+seaborn
+matplotlib
+openpyxl
